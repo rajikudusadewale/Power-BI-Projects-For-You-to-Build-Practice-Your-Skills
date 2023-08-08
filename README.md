@@ -62,4 +62,4 @@ Microsoft Power BI
    - **Visualizations**: Supplier performance scorecards, transportation cost analysis, demand-supply gap analysis.
    - **Resources**: [Supply Chain Analytics in Power BI](https://www.youtube.com/watch?v=8vYDPN9T3aI).
 
-For each project, start by gathering and cleaning the data. Then, define the key metrics you want to track. Design your Power BI reports and dashboards keeping the end-users in mind. Finally, share your findings and get feedback to refine your visualizations. Remember, the key to mastering Power BI is consistent practice and real-world application!
+For each project, start by gathering and cleaning the data. Then, define the key metrics you want to track. Design your Power BI reports and dashboards keeping the end-users in mind. Finally, share your findings and get feedback to refine your visualizations. Remember, consistent practice and real-world application are the key to mastering Power BI.
