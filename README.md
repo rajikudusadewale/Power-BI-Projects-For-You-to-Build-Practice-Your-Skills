@@ -11,7 +11,7 @@ Microsoft Power BI
 2. **Inventory Management System**
    - **Data**: Product stock levels, sales data, purchase orders.
    - **Data Source**: [Sample inventory data from Data World](https://data.world/dave-smith/inventory-management).
-   - **Visualizations**: Products below reorder level, stock turnover rate, pending purchase orders.
+   - **Visualizations**: Products below reorder level, stock turnover rate, pending purchase orders
    - **Resources**: [Inventory Dashboard in Power BI](https://www.youtube.com/watch?v=KUoGfsM5HQQ).
 
 3. **Customer Feedback Analysis**
